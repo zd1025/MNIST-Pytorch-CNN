@@ -49,42 +49,6 @@
 网络整体结构图
 ```
 
-==首先对网络进行滤波处理 随后将数据集投入网络中训练==
-
-![https://secure2.wostatic.cn/static/86rG8KMnprCPTrxbapdHLj/image.png?auth_key=1682994406-sA5vhPYnNB8ZuL2dP3eptN-0-0347354fa81b2484b2142e302a9a38c7&file_size=63296](https://secure2.wostatic.cn/static/86rG8KMnprCPTrxbapdHLj/image.png?auth_key=1682994406-sA5vhPYnNB8ZuL2dP3eptN-0-0347354fa81b2484b2142e302a9a38c7&file_size=63296)
-
-<img src="https://secure2.wostatic.cn/static/pS1jqDw1cr3Nxz1bhwi8KJ/1682765284884.png?auth_key=1682994357-ddVwXebuGqDjJxXCPjy2Qc-0-71c1c34c49be50d96965b44ce570f2f6&file_size=34113" alt="https://secure2.wostatic.cn/static/pS1jqDw1cr3Nxz1bhwi8KJ/1682765284884.png?auth_key=1682994357-ddVwXebuGqDjJxXCPjy2Qc-0-71c1c34c49be50d96965b44ce570f2f6&file_size=34113" style="zoom:50%;" />
-
-```
-layer 1
-```
-
-<img src="https://secure2.wostatic.cn/static/esEBiNCqjYtZTZK5gjzwLH/image.png?auth_key=1682994506-hW4BNA5oZD9g9fCg5RADoy-0-3333e5ac44310b59af80284b20d3f7cb&file_size=29235" alt="https://secure2.wostatic.cn/static/esEBiNCqjYtZTZK5gjzwLH/image.png?auth_key=1682994506-hW4BNA5oZD9g9fCg5RADoy-0-3333e5ac44310b59af80284b20d3f7cb&file_size=29235" style="zoom:50%;" />
-
-```
-layer 2
-```
-
-<img src="https://secure2.wostatic.cn/static/uVRLWFb9Tbny2buVMPDUdb/image.png?auth_key=1682994530-r7PM3YTSWQg383Fy2esXW4-0-e4ae7b2e67137f8b5f414923a509a1d6&file_size=36079" alt="https://secure2.wostatic.cn/static/uVRLWFb9Tbny2buVMPDUdb/image.png?auth_key=1682994530-r7PM3YTSWQg383Fy2esXW4-0-e4ae7b2e67137f8b5f414923a509a1d6&file_size=36079" style="zoom: 50%;" />
-
-```
-layer 3
-```
-
-<img src="https://secure2.wostatic.cn/static/xqrkYRCXZfpwCptWPyEShX/image.png?auth_key=1682994568-34FEwU5fMKFxYpLWG1sEKK-0-12ef9352fa109f5a4961a0925230b93b&file_size=30391" alt="https://secure2.wostatic.cn/static/xqrkYRCXZfpwCptWPyEShX/image.png?auth_key=1682994568-34FEwU5fMKFxYpLWG1sEKK-0-12ef9352fa109f5a4961a0925230b93b&file_size=30391" style="zoom:50%;" />
-
-```
-layer 4
-```
-
-<img src="https://secure2.wostatic.cn/static/g8czqogjybCwgXbS4nw5L9/image.png?auth_key=1682994592-wvkXsGxGQSRXrzvKvXLjmC-0-4ef945c05b89763eafd988251b98edcd&file_size=27269" alt="https://secure2.wostatic.cn/static/g8czqogjybCwgXbS4nw5L9/image.png?auth_key=1682994592-wvkXsGxGQSRXrzvKvXLjmC-0-4ef945c05b89763eafd988251b98edcd&file_size=27269" style="zoom:50%;" />
-
-```
-full connection
-```
-
-<img src="https://secure2.wostatic.cn/static/f9UJzJKGwk69X61GBYWYin/image.png?auth_key=1682994619-dgjUge4T6FMrLRHkXsURb4-0-9a092d7d046d8864cc3c3d278584c187&file_size=32543" alt="https://secure2.wostatic.cn/static/f9UJzJKGwk69X61GBYWYin/image.png?auth_key=1682994619-dgjUge4T6FMrLRHkXsURb4-0-9a092d7d046d8864cc3c3d278584c187&file_size=32543" style="zoom:50%;" />
-
 
 
 ## 三、结果展示
@@ -109,4 +73,4 @@ full connection
 
 MNIST手写识别
 
-https://www.wolai.com/oEcXbkg7gRz9kiKedVnmW5
+https://www.wolai.com/rvoV22eCuW9u4TnZVMGqtk
