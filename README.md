@@ -1,4 +1,4 @@
-# MNIST-Pytorch-CNN
+![1705385899163](https://github.com/zd1025/MNIST-Pytorch-CNN/assets/87258436/7fb8be05-f04d-4543-9637-d1e0a69d7427)![1705385899163](https://github.com/zd1025/MNIST-Pytorch-CNN/assets/87258436/3756436a-fb9b-4ce2-92bd-369286131615)# MNIST-Pytorch-CNN
 手写识别MNIST（Pytorch + CNN实现）
 
 [TOC]
@@ -48,6 +48,7 @@
 ```
 网络整体结构图
 ```
+![1705385915528](https://github.com/zd1025/MNIST-Pytorch-CNN/assets/87258436/f414ff0a-9df4-4152-a7e2-1997e50ffbdd)
 
 
 
